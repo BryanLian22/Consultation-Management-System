@@ -1,0 +1,41 @@
+Username: Bryan
+Password: 123
+Role: Student
+---------------
+Username: Lian
+Password: 123
+Role: Student
+---------------
+Username: Lian 
+Password: 123
+Role: Student
+---------------
+Username: Keith
+Password: 123
+Role: Lecturer
+Lecturer ID: INS1234
+---------------
+Username: Kelver
+Password: 123
+Role: Lecturer
+Lecturer ID: INS5678
+---------------
+Username: Irvin
+Password: 123
+Role: Lecturer
+Lecturer ID: INS1234
+---------------
+Username: Ivan
+Password: 123
+Role: Student
+---------------
+Username: Julius
+Password: 123
+Role: Lecturer
+Lecturer ID: INS1234
+---------------
+Username: Ali
+Password: 123
+Role: Lecturer
+Lecturer ID: INS1234
+---------------
